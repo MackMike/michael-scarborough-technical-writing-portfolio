@@ -8,7 +8,7 @@ This repository contains writing, editing, and documentation samples that demons
 
 ### Writing and Documentation Samples
 - [Atari Computer User Guide](./Atari-Computer-User-Guide/)
-- [Migrate User Administrative Tool Documentation](./migrate-user-admin-tool-documentation/)
+- [Migrate-User-Administrative-Tool-Documentation](./migrate-user-administrative-tool-documentation/)
 
 ## About Me
 I am a technical writing and editing professional with a background in macOS systems engineering and enterprise IT. My work includes technical editing, administrator documentation, knowledge base content, workflows, and instructional documentation for technical and nontechnical audiences.
