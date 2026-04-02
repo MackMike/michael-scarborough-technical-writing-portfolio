@@ -26,8 +26,8 @@ This portfolio includes examples of:
 - Structured authoring fundamentals
 
 ## Additional Links
-- [LinkedIn](https://www.linkedin.com/in/jbob/)
-- [Portfolio Site](https://www.clippings.me/jbob/)
+- [LinkedIn](https://www.linkedin.com/in/miscarborough/)
+- [Portfolio Site](https://www.clippings.me/mscarborough)
 
 ## Notes
 Additional samples may be added over time as I continue expanding this portfolio.
