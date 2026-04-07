@@ -1,3 +1,9 @@
 # Apache OpenOffice Technical Editing
 
-Project materials for my OpenOffice technical editing portfolio sample.
+This folder contains supporting materials for my Apache OpenOffice technical editing portfolio sample.
+
+## Contents
+- Project overview PDF
+- Editing highlights PDF
+- Detailed before-and-after examples PDF
+- Supporting materials as applicable
