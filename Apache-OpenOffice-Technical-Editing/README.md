@@ -6,4 +6,4 @@ This folder contains supporting materials for my Apache OpenOffice technical edi
 - Project overview PDF
 - Editing highlights PDF
 - Detailed before-and-after examples PDF
-- Supporting materials as applicable
+- Supporting materials
