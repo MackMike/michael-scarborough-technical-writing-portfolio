@@ -1,17 +1,19 @@
 # Managed Mac Onboarding Guide
 
-This sample documents a task-based quick-start guide for end users receiving a company-managed Mac. It covers setup, authentication, connecting to the secure company network via Zscaler, accessing Microsoft 365 and Office apps, using Jamf Self Service, and basic troubleshooting.
-
-The guide is designed for clarity, usability, and step-by-step completion for non-technical users, demonstrating my ability to translate enterprise IT workflows into user-focused documentation.
-
----
+This sample documents the end-user onboarding process for a company-managed Mac. The project demonstrates user-focused documentation for enterprise IT, guiding employees through setup, authentication, and access to company resources.
 
 ## Project Overview
-Read the project overview PDF for audience, goals, constraints, tools, and results.
+
+Read the project overview PDF for audience, goals, constraints, tools, and results:
 
 - [Open Project Overview PDF](https://mackmike.github.io/technical-writing-portfolio-site/assets/pdf/enterprise-macos-onboarding-overview.pdf)
 
 ## User Guide
-The main user guide is hosted in the portfolio site:
+
+The main user guide is hosted on the portfolio site and walks end users through step-by-step setup of their managed Mac:
 
 - [View Managed Mac Onboarding Guide](https://mackmike.github.io/technical-writing-portfolio-site/projects/managed-mac-onboarding-guide/)
+
+## Portfolio Note
+
+This folder supports the Managed Mac Onboarding Guide sample presented in my technical writing portfolio site. It provides a concise project README linking to the PDF overview and the full user guide hosted via MkDocs.
