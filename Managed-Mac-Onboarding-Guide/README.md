@@ -7,8 +7,11 @@ The guide is designed for clarity, usability, and step-by-step completion for no
 ---
 
 ## Project Overview
-
-Read the project overview PDF for audience, goals, constraints, tools, and results:
+Read the project overview PDF for audience, goals, constraints, tools, and results.
 
 - [Open Project Overview PDF](https://mackmike.github.io/technical-writing-portfolio-site/assets/pdf/enterprise-macos-onboarding-overview.pdf)
-- [View User Guide on GitHub](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/blob/main/Managed-Mac-Onboarding-Guide/managed-mac-onboarding-guide.md)
+
+## User Guide
+The main user guide is hosted in the portfolio site:
+
+- [View Managed Mac Onboarding Guide](https://mackmike.github.io/technical-writing-portfolio-site/projects/managed-mac-onboarding-guide/)
