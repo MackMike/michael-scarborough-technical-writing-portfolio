@@ -10,6 +10,7 @@ This repository contains writing, editing, and documentation samples that demons
 - [Atari Computer User Guide](./Atari-Computer-User-Guide/)
 - [Migrate-User-Administrative-Tool-Documentation](./Migrate-User-Administrative-Tool-Documentation/)
 - [OpenOffice Technical Editing](./Apache-OpenOffice-Technical-Editing/)
+- [Managed Mac Onboarding Guide](./Managed-Mac-Onboarding-Guide/)
 
 ## About Me
 I am a technical writing and editing professional with a background in macOS systems engineering and enterprise IT. My work includes technical editing, administrator documentation, knowledge base content, workflows, and instructional documentation for technical and nontechnical audiences.
