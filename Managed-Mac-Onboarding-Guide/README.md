@@ -6,7 +6,7 @@ This sample documents the end-user onboarding process for a company-managed Mac.
 
 Read the project overview PDF for audience, goals, constraints, tools, and results:
 
-- [Open Project Overview PDF](https://mackmike.github.io/technical-writing-portfolio-site/assets/pdf/enterprise-macos-onboarding-overview.pdf)
+- [Open Project Overview PDF](https://mackmike.github.io/technical-writing-portfolio-site/assets/pdfs/enterprise-macos-onboarding-overview.pdf)
 
 ## User Guide
 
