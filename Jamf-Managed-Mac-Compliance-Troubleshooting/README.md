@@ -6,7 +6,7 @@ This sample documents an internal troubleshooting workflow for investigating com
 
 Read the project overview PDF for audience, goals, constraints, tools, and results:
 
-[Open Project Overview PDF](<PRIVATE_URL_OR_PORTFOLIO_LINK>)
+[Open Project Overview PDF](https://mackmike.github.io/technical-writing-portfolio-site/assets/pdfs/jamf-managed-mac-compliance-troubleshooting-overview.pdf
 
 ## Knowledge Base Article
 
