@@ -12,7 +12,7 @@ This project highlights my technical editing work on Apache OpenOffice user docu
 - supporting materials as applicable
 
 ## Published Documentation
-Published OpenOffice documentation is available on the Apache OpenOffice Wiki.
+Published OpenOffice documentation is available on the [Apache OpenOffice Wiki](https://wiki.openoffice.org/wiki/Documentation/AOO4_User_Guides/AOO4.1_User_Guide_Chapters)
 
 ## Portfolio Note
 This folder supports the Apache OpenOffice technical editing sample presented in my technical writing portfolio site.
