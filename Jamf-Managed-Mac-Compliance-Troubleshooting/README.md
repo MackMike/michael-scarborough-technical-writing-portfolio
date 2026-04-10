@@ -12,7 +12,7 @@ Read the project overview PDF for audience, goals, constraints, tools, and resul
 
 The full knowledge base article is hosted on the portfolio site:
 
-[View Troubleshooting Compliance Failures on Jamf-Managed Macs](jamf-managed-mac-compliance-troubleshooting-article.md)
+[View Troubleshooting Compliance Failures on Jamf-Managed Macs](https://mackmike.github.io/technical-writing-portfolio-site/projects/jamf-managed-mac-compliance-troubleshooting-article/)
 
 ## Portfolio Note
 
