@@ -7,11 +7,11 @@ This repository contains writing, editing, and documentation samples that demons
 ## Portfolio Contents
 
 ### Writing and Documentation Samples
-- [Atari Computer User Guide](./Atari-Computer-User-Guide/)
-- [Migrate-User-Administrative-Tool-Documentation](./Migrate-User-Administrative-Tool-Documentation/)
-- [OpenOffice Technical Editing](./Apache-OpenOffice-Technical-Editing/)
 - [Managed Mac Onboarding Guide](./Managed-Mac-Onboarding-Guide/)
 - [KB: Troubleshooting Compliance Failures on Jamf-Managed Macs](./Jamf-Managed-Mac-Compliance-Troubleshooting/)
+- [Migrate-User-Administrative-Tool-Documentation](./Migrate-User-Administrative-Tool-Documentation/)
+- [OpenOffice Technical Editing](./Apache-OpenOffice-Technical-Editing/)
+- [Atari Computer User Guide](./Atari-Computer-User-Guide/)
 
 ## About Me
 I am a technical writing and editing professional with a background in macOS systems engineering and enterprise IT. My work includes technical editing, administrator documentation, knowledge base content, workflows, and instructional documentation for technical and nontechnical audiences.
