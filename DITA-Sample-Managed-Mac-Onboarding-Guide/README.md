@@ -48,7 +48,7 @@ The goal of this sample is to demonstrate basic DITA authoring skills by convert
 This sample demonstrates the ability to learn and apply structured authoring concepts in a practical documentation scenario. It shows adaptability across formats and provides evidence of foundational DITA skills alongside Markdown-based portfolio work.
 
 ## View the Project
-- **View final sample:** [DITA Sample: Getting Started with Your Managed Mac](dita-managed-mac-onboarding-guide.md)
+- **View final sample:** [DITA Sample: Getting Started with Your Managed Mac](https://mackmike.github.io/technical-writing-portfolio-site/projects/dita-managed-mac-onboarding-guide/)
 - **View DITA source folder in GitHub:** [managed-mac-onboarding source files](https://github.com/MackMike/technical-writing-portfolio-site/tree/main/docs/assets/pdfs/dita/managed-mac-onboarding)
 - **View DITA map in GitHub:** [managed-mac-onboarding.ditamap](https://github.com/MackMike/technical-writing-portfolio-site/blob/main/docs/assets/pdfs/dita/managed-mac-onboarding/managed-mac-onboarding.ditamap)
 - **View original Markdown-based sample:** [Getting Started with Your Managed Mac](managed-mac-onboarding-guide.md)
