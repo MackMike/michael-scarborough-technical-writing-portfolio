@@ -9,6 +9,7 @@ This repository contains writing, editing, and documentation samples that demons
 ### Writing and Documentation Samples
 - [Managed Mac Onboarding Guide](./Managed-Mac-Onboarding-Guide/)
 - [KB: Troubleshooting Compliance Failures on Jamf-Managed Macs](./Jamf-Managed-Mac-Compliance-Troubleshooting/)
+- [KB: Troubleshooting VPN Certificate Issues on Managed macOS Devices](./VPN-Certificate-Managed-Mac-Troubleshooting/)
 - [Migrate-User-Administrative-Tool-Documentation](./Migrate-User-Administrative-Tool-Documentation/)
 - [OpenOffice Technical Editing](./Apache-OpenOffice-Technical-Editing/)
 - [Atari Computer User Guide](./Atari-Computer-User-Guide/)
