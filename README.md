@@ -11,7 +11,7 @@ This repository contains writing, editing, and documentation samples that demons
 - [KB: Troubleshooting Compliance Failures on Jamf-Managed Macs](./Jamf-Managed-Mac-Compliance-Troubleshooting/)
 - [KB: Troubleshooting VPN Certificate Issues on Managed macOS Devices](./VPN-Certificate-Managed-Mac-Troubleshooting/)
 - [Migrate-User-Administrative-Tool-Documentation](./Migrate-User-Administrative-Tool-Documentation/)
-
+  [DITA-Sample-Managed-Mac-Onboarding-Guide](./DITA-Sample-Managed-Mac-Onboarding-Guide/)
 ### Additional Samples
 - [OpenOffice Technical Editing](./Apache-OpenOffice-Technical-Editing/)
 - [Atari Computer User Guide](./Atari-Computer-User-Guide/)
