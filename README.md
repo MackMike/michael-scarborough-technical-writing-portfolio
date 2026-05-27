@@ -2,56 +2,46 @@
 
 For a quick overview, visit my GitHub profile: [MackMike](https://github.com/MackMike)
 
-Welcome to my technical writing portfolio.
+I am a Technical Writer and Editor with a background in macOS systems engineering, endpoint management, and enterprise IT. This repository contains selected writing and editing samples focused on clear, structured, audience-centered documentation for technical teams and end users.
 
-I am a Technical Writer and Editor with a background in macOS systems engineering, endpoint management, and enterprise IT. This repository contains selected writing and editing samples that demonstrate my experience creating clear, structured, audience-focused documentation for technical teams and end users.
-
-My work includes user guides, administrator documentation, knowledge base and troubleshooting content, workflow documentation, technical editing, and introductory structured authoring samples. I also serve as a Technical Editor for Apache OpenOffice documentation and have completed Scriptorium’s *Introduction to DITA* course.
+My portfolio includes user guides, administrator documentation, knowledge base and troubleshooting content, workflow documentation, technical editing samples, and introductory structured authoring work.
 
 ## Featured Samples
 
 ### [Managed macOS Onboarding Guide](./Managed-Mac-Onboarding-Guide/)
-Task-based end-user documentation for setting up a company-managed macOS device in an enterprise environment. Demonstrates onboarding workflows, authentication and security integration, and user-focused troubleshooting.
+Task-based onboarding documentation for enterprise macOS users.
 
 ### [KB Article: Troubleshooting Compliance Failures on Jamf-Managed Macs](./Jamf-Managed-Mac-Compliance-Troubleshooting/)
-Support-focused documentation for diagnosing and remediating compliance failures on Jamf-managed Macs. Demonstrates structured troubleshooting, remediation guidance, and writing for enterprise IT teams.
+Support-focused troubleshooting documentation for enterprise IT teams.
 
 ### [KB Article: Troubleshooting VPN Certificate Issues on Managed macOS Devices](./VPN-Certificate-Managed-Mac-Troubleshooting/)
-Troubleshooting documentation for resolving certificate-related VPN connection failures on managed macOS devices. Demonstrates escalation-aware support content, endpoint management context, and structured remediation guidance.
+Troubleshooting documentation for certificate-related VPN connection issues on managed macOS devices.
 
 ### [Migrate User Administrative Tool Documentation](./Migrate-User-Administrative-Tool-Documentation/)
-Administrator documentation for an AppleScript-based tool used to restore ownership and group permissions after macOS reimaging. Demonstrates tool documentation, warning and prompt revision, maintainable commenting, and administrator-focused messaging.
+Administrator documentation for a post-reimaging permissions restoration tool.
 
 ### [DITA Sample: Managed macOS Onboarding Guide](./DITA-Sample-Managed-Mac-Onboarding-Guide/)
-A structured authoring sample that adapts a managed macOS onboarding guide into DITA using concept, task, reference, troubleshooting, and map-based organization. Demonstrates foundational DITA skills, structured XML authoring, and topic-based documentation design.
+A structured authoring sample demonstrating foundational DITA concepts and topic-based documentation.
 
 ## Additional Samples
 
 ### [Apache OpenOffice Technical Editing](./Apache-OpenOffice-Technical-Editing/)
-Technical editing sample based on published Apache OpenOffice documentation. Demonstrates clarity improvements, consistency editing, structural revision, and before-and-after editorial examples.
+A technical editing sample demonstrating clarity, consistency, and structural revision.
 
 ### [Atari Computer User Guide](./Atari-Computer-User-Guide/)
-A Markdown-based user guide created to apply technical writing principles to legacy computer documentation. Demonstrates procedural writing, setup guidance, and user-focused instructional content.
+A Markdown-based user guide demonstrating procedural and instructional writing.
 
 ## Skills Demonstrated
 
 - Technical writing
 - Technical editing
-- User guides
-- Administrator documentation
+- User and administrator documentation
 - Knowledge base and troubleshooting content
 - Process and workflow documentation
-- Procedural and task-based writing
 - Markdown, XML, GitHub, and version-controlled documentation workflows
 - Structured authoring and DITA fundamentals
-- Topic-based writing
-- macOS and enterprise IT documentation
 
-## About
-
-My background in enterprise support and device management helps me translate technical complexity into clear, usable, audience-appropriate documentation. While my strongest subject matter expertise is in macOS and enterprise IT, I am also interested in a broader range of technical writing and editing work, including user guides, administrator guides, manuals, support content, and documentation systems.
-
-## Additional Links
+## Links
 
 - [GitHub Profile](https://github.com/MackMike)
 - [LinkedIn](https://www.linkedin.com/in/miscarborough/)
