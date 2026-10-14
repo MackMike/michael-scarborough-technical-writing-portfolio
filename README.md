@@ -20,6 +20,9 @@ Knowledge base documentation for resolving certificate-related VPN connection is
 ### [Migrate User Administrative Tool Documentation](./Migrate-User-Administrative-Tool-Documentation/)
 Administrator documentation for a tool used to restore ownership and group permissions after macOS reimaging. Demonstrates administrator-focused writing, clearer prompts and warnings, and documentation improvements that support more reliable tool usage.
 
+### [Reading List API Documentation](projects/reading-list-api/index.md)
+Developer documentation for a fictional REST API, built with an OpenAPI-first workflow. Demonstrates an OpenAPI 3.1 specification, a generated API reference, a task-based quickstart with curl, JavaScript, and Python examples, authentication guidance, and standardized error documentation, all tested against a local mock server.
+
 ### [DITA Sample: Managed macOS Onboarding Guide](./DITA-Sample-Managed-Mac-Onboarding-Guide/)
 A structured authoring sample that adapts onboarding content into DITA using topic-based organization. Demonstrates foundational DITA skills, structured XML authoring, and modular documentation design.
 
